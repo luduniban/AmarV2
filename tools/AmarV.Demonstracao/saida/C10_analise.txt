@@ -1,0 +1,57 @@
+AMAR V — ANÁLISE DO ESQUEMA VACINAL
+============================================
+Paciente: Rafael Costa (fictício)
+Nascimento: 26/10/1998 · Idade: 28 anos
+Grupo: Adulto
+Condições consideradas: Profissional de saúde
+Data da análise: 26/10/2026
+
+SITUAÇÃO VACINAL: EM ATRASO
+Atrasadas: 2 · Aplicar hoje: 2 · Próximas: 0 · Em dia: 4
+
+ALERTAS
+--------------------------------------------
+[INFO] Hepatite B: Profissional de saúde com esquema completo: solicitar anti-HBs 1 a 2 meses após a última dose.
+
+VACINAS EM ATRASO (SUS)
+--------------------------------------------
+- SCR — 1 de 2 dose(s) · próxima: 2ª dose: 2ª dose recomendada desde 26/10/2023 (3 anos de atraso). Pode ser aplicada até 25/10/2028. Via: SC.
+- Varicela — 0 de 2 dose(s) · próxima: 1ª dose: Nenhuma dose registrada. 1ª dose recomendada desde 26/10/2023 (3 anos de atraso). Pode ser aplicada até 25/10/2058. Via: SC.
+
+VACINAS PARA APLICAR HOJE (SUS)
+--------------------------------------------
+- COVID-19 — 0 de 1 dose(s) · próxima: dose anual: Nenhuma dose registrada. Dose anual indicada. Via: IM.
+- dTpa — 0 de 1 dose(s) · próxima: 1ª dose: Nenhuma dose registrada. Dose a cada 10 anos indicada. Via: IM.
+
+ESQUEMA DE RECUPERAÇÃO / PRÓXIMOS ATENDIMENTOS
+--------------------------------------------
+Atendimento 1 — hoje, 26/10/2026
+   • SCR — 2ª dose (SC) [atrasada]
+   • Varicela — 1ª dose (SC) [atrasada]
+   • COVID-19 — dose anual (IM)
+   • dTpa — 1ª dose (IM)
+Atendimento 2 — a partir de 25/12/2026
+   • Varicela — 2ª dose (SC)
+
+ESQUEMAS EM DIA
+--------------------------------------------
+- dT: Esquema completo (3 doses). Próximo reforço em 26/10/2028.
+- Febre Amarela: Esquema completo (1 de 1 dose(s)).
+- Hepatite B: Esquema completo (3 de 3 dose(s)).
+- Influenza: Última dose em 26/03/2026; próxima (anual) a partir de 26/03/2027.
+
+REDE PRIVADA (complementares, não entram na situação do SUS)
+--------------------------------------------
+- Meningocócica ACWY [DISPONÍVEL]: Disponível na rede privada conforme indicação e produto utilizado.
+- Meningocócica B [DISPONÍVEL]: Disponível na rede privada conforme indicação e produto utilizado.
+- Pneumocócica 13 [DISPONÍVEL]: Disponível na rede privada conforme indicação e produto utilizado.
+
+HISTÓRICO REGISTRADO
+--------------------------------------------
+- dT: 3 dose(s) — última em 26/10/2018
+- Febre Amarela: 1 dose(s) — última em 26/10/2016
+- Hepatite B: 3 dose(s) — última em 26/04/2024
+- Influenza: 1 dose(s) — última em 26/03/2026
+- SCR: 1 dose(s) — última em 26/10/1999
+
+A análise é um apoio à decisão e não substitui a avaliação do profissional de saúde. Condições especiais podem exigir avaliação no CRIE.

@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/app/">
+    <Project Path="MauiApp1/maui_amarv.csproj">
+      <Deploy />
+    </Project>
+  </Folder>
+  <Folder Name="/motor/">
+    <Project Path="src/AmarV.Core/AmarV.Core.csproj" />
+  </Folder>
+  <Folder Name="/testes/">
+    <Project Path="tests/AmarV.Core.Testes/AmarV.Core.Testes.csproj" />
+    <Project Path="tools/AmarV.Demonstracao/AmarV.Demonstracao.csproj" />
+  </Folder>
+</Solution>

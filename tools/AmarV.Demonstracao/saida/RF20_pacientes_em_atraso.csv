@@ -1,0 +1,8 @@
+﻿Paciente;Idade;Situacao;Atrasadas;AplicarHoje;ProximaVacina;DataProxima;RequerAvaliacao;NomeMae;Telefone;Endereco
+"Sofia Nunes (fictícia)";"3 anos";"EM ATRASO";"Pneumocócica 10-valente, COVID-19, Febre Amarela, Meningocócica ACWY, SCR, DTP, Hepatite A, Varicela, VIP";"Influenza";"";"";Sim;"";"(11) 90000-0009";"Endereço fictício"
+"Davi Rocha (fictício)";"4 anos e 3 meses";"EM ATRASO";"COVID-19, Meningocócica ACWY, DTP, Hepatite A, SCR, Varicela, VIP, Febre Amarela";"Influenza";"";"";Não;"";"(11) 90000-0003";"Endereço fictício"
+"Juliana Matos (fictícia)";"35 anos e 2 meses";"EM ATRASO";"dT, Febre Amarela, Hepatite B, SCR";"";"";"";Sim;"";"(11) 90000-0005";"Endereço fictício"
+"José Ribeiro (fictício)";"68 anos e 1 mês";"EM ATRASO";"Febre Amarela, Hepatite B, dT";"Influenza, COVID-19";"";"";Sim;"";"(11) 90000-0007";"Endereço fictício"
+"Lucas Pereira (fictício)";"12 anos e 1 mês";"EM ATRASO";"HPV, Meningocócica ACWY";"COVID-19, Influenza";"";"";Sim;"";"(11) 90000-0008";"Endereço fictício"
+"Rafael Costa (fictício)";"28 anos";"EM ATRASO";"SCR, Varicela";"COVID-19, dTpa";"";"";Não;"";"(11) 90000-0010";"Endereço fictício"
+"Helena Souza (fictícia)";"2 meses e 6 dias";"EM ATRASO";"BCG";"Pentavalente, Pneumocócica 10-valente, Rotavírus, VIP";"Meningocócica C";"20/11/2026";Não;"";"(11) 90000-0001";"Endereço fictício"

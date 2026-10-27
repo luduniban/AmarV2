@@ -1,0 +1,73 @@
+[SUS] Criança — BCG: Dose única · faixa do nascimento até 4 anos e 11 meses e 29 dias
+[SUS] Criança — Hepatite B: Dose única · faixa do nascimento até 1 mês e 29 dias
+[SUS] Criança — Pentavalente: 3 dose(s): 2 meses, 4 meses, 6 meses · faixa de 2 meses até 6 anos e 11 meses e 29 dias
+[SUS] Criança — Pneumocócica 10-valente: 3 dose(s): 2 meses, 4 meses, 1 ano · faixa de 2 meses até 4 anos e 11 meses e 29 dias
+[SUS] Criança — Rotavírus: 2 dose(s): 2 meses, 4 meses · faixa de 2 meses até 1 ano e 11 meses e 29 dias
+[SUS] Criança — VIP: 4 dose(s): 2 meses, 4 meses, 6 meses, 1 ano e 3 meses · faixa de 2 meses até 6 anos e 11 meses e 29 dias
+[SUS] Criança — Meningocócica C: 2 dose(s): 3 meses, 5 meses · faixa de 3 meses até 11 meses e 29 dias
+[SUS] Criança — COVID-19: 3 dose(s): 6 meses, 7 meses, 9 meses · faixa de 6 meses até 4 anos e 11 meses e 29 dias
+[SUS] Criança — Influenza: Dose única · reforço/repetição: Anual · faixa de 6 meses até 5 anos e 11 meses e 29 dias
+[SUS] Criança — Febre Amarela: 2 dose(s): 9 meses, 4 anos · faixa de 9 meses até 9 anos e 11 meses e 29 dias
+[SUS] Criança — Meningocócica ACWY: Dose única · faixa de 1 ano até 4 anos e 11 meses e 29 dias
+[SUS] Criança — SCR: 2 dose(s): 1 ano, 1 ano e 3 meses · faixa de 1 ano até 9 anos e 11 meses e 29 dias
+[SUS] Criança — DTP: 2 dose(s): 1 ano e 3 meses, 4 anos · faixa de 1 ano e 3 meses até 6 anos e 11 meses e 29 dias
+[SUS] Criança — Hepatite A: Dose única · faixa de 1 ano e 3 meses até 4 anos e 11 meses e 29 dias
+[SUS] Criança — Varicela: 2 dose(s): 1 ano e 3 meses, 4 anos · faixa de 1 ano e 3 meses até 6 anos e 11 meses e 29 dias
+[SUS] Criança — dT: 3 dose(s): 1ª na 1ª visita, 2ª após 60 dias, 3ª após 60 dias · faixa de 7 anos até 9 anos e 11 meses e 29 dias
+[SUS] Criança — Hepatite B: 3 dose(s): 1ª na 1ª visita, 2ª após 28 dias, 3ª após 60 dias · faixa de 7 anos até 9 anos e 11 meses e 29 dias
+[SUS] Criança — VIP: 3 dose(s): 1ª na 1ª visita, 2ª após 28 dias, 3ª após 28 dias · faixa de 7 anos até 9 anos e 11 meses e 29 dias
+[SUS] Criança — HPV: Dose única · faixa de 9 anos até 14 anos e 11 meses e 29 dias
+[SUS] Criança / Grupo prioritário — COVID-19: Dose única · reforço/repetição: Anual · faixa de 5 anos até 9 anos e 11 meses e 29 dias
+[SUS] Criança / Indígena — Pneumocócica 23-valente: 2 dose(s): 1ª na 1ª visita, 2ª após 5 anos · faixa de 5 anos até 9 anos e 11 meses e 29 dias
+[SUS] Criança / Grupo prioritário — Influenza: Dose única · reforço/repetição: Anual · faixa de 6 anos até 9 anos e 11 meses e 29 dias
+[SUS] Criança / Profissional de saúde — Varicela: 2 dose(s): 1ª na 1ª visita, 2ª após 90 dias · faixa de 7 anos até 9 anos e 11 meses e 29 dias
+[SUS] Criança / Indígena — Varicela: 2 dose(s): 1ª na 1ª visita, 2ª após 90 dias · faixa de 7 anos até 9 anos e 11 meses e 29 dias
+[SUS] Adolescente/Jovem — Dengue: 2 dose(s): 1ª na 1ª visita, 2ª após 84 dias · faixa de 10 anos até 14 anos e 11 meses e 29 dias
+[SUS] Adolescente/Jovem — dT: 3 dose(s): 1ª na 1ª visita, 2ª após 60 dias, 3ª após 60 dias · reforço/repetição: 10 anos · faixa de 10 anos até 24 anos e 11 meses e 29 dias
+[SUS] Adolescente/Jovem — Febre Amarela: 2 dose(s): 1ª na 1ª visita, 2ª após 28 dias · faixa de 10 anos até 24 anos e 11 meses e 29 dias
+[SUS] Adolescente/Jovem — Hepatite B: 3 dose(s): 1ª na 1ª visita, 2ª após 28 dias, 3ª após 60 dias · faixa de 10 anos até 24 anos e 11 meses e 29 dias
+[SUS] Adolescente/Jovem — HPV: Dose única · faixa de 10 anos até 14 anos e 11 meses e 29 dias
+[SUS] Adolescente/Jovem — SCR: 2 dose(s): 1ª na 1ª visita, 2ª após 28 dias · faixa de 10 anos até 24 anos e 11 meses e 29 dias
+[SUS] Adolescente/Jovem — VIP: 3 dose(s): 1ª na 1ª visita, 2ª após 28 dias, 3ª após 28 dias · faixa de 10 anos até 19 anos e 11 meses e 29 dias
+[SUS] Adolescente/Jovem — Meningocócica ACWY: Dose única · faixa de 11 anos até 14 anos e 11 meses e 29 dias
+[SUS] Adolescente/Jovem — HPV: Dose única · faixa de 15 anos até 19 anos e 11 meses e 29 dias
+[SUS] Adolescente/Jovem / Grupo prioritário — COVID-19: Dose única · reforço/repetição: Anual · faixa de 10 anos até 24 anos e 11 meses e 29 dias
+[SUS] Adolescente/Jovem / Profissional de saúde — dTpa: Dose única · reforço/repetição: 10 anos · faixa de 10 anos até 24 anos e 11 meses e 29 dias
+[SUS] Adolescente/Jovem / Puérpera — dTpa: Dose única · faixa de 10 anos até 24 anos e 11 meses e 29 dias
+[SUS] Adolescente/Jovem / Grupo prioritário — Influenza: Dose única · reforço/repetição: Anual · faixa de 10 anos até 24 anos e 11 meses e 29 dias
+[SUS] Adolescente/Jovem / Indígena — Pneumocócica 23-valente: 2 dose(s): 1ª na 1ª visita, 2ª após 5 anos · faixa de 10 anos até 24 anos e 11 meses e 29 dias
+[SUS] Adolescente/Jovem / Profissional de saúde — Varicela: 2 dose(s): 1ª na 1ª visita, 2ª após 60 dias · faixa de 10 anos até 24 anos e 11 meses e 29 dias
+[SUS] Adolescente/Jovem / Indígena — Varicela: 2 dose(s): 1ª na 1ª visita, 2ª após 60 dias · faixa de 10 anos até 24 anos e 11 meses e 29 dias
+[SUS] Adulto — dT: 3 dose(s): 1ª na 1ª visita, 2ª após 60 dias, 3ª após intervalo da norma · reforço/repetição: 10 anos · faixa de 25 anos até 59 anos e 11 meses e 29 dias
+[SUS] Adulto — Febre Amarela: 2 dose(s): 1ª na 1ª visita, 2ª após 28 dias · faixa de 25 anos até 59 anos e 11 meses e 29 dias
+[SUS] Adulto — Hepatite B: 3 dose(s): 1ª na 1ª visita, 2ª após 28 dias, 3ª após 60 dias · faixa de 25 anos até 59 anos e 11 meses e 29 dias
+[SUS] Adulto — SCR: 2 dose(s): 1ª na 1ª visita, 2ª após 28 dias · faixa de 25 anos até 29 anos e 11 meses e 29 dias
+[SUS] Adulto — SCR: Dose única · faixa de 30 anos até 59 anos e 11 meses e 29 dias
+[SUS] Adulto / Grupo prioritário — COVID-19: Dose única · reforço/repetição: Anual · faixa de 25 anos até 59 anos e 11 meses e 29 dias
+[SUS] Adulto / Profissional de saúde — dTpa: Dose única · reforço/repetição: 10 anos · faixa de 25 anos até 59 anos e 11 meses e 29 dias
+[SUS] Adulto / Puérpera — dTpa: Dose única · faixa de 25 anos até 59 anos e 11 meses e 29 dias
+[SUS] Adulto / Grupo prioritário — Influenza: Dose única · reforço/repetição: Anual · faixa de 25 anos até 59 anos e 11 meses e 29 dias
+[SUS] Adulto / Indígena — Pneumocócica 23-valente: 2 dose(s): 1ª na 1ª visita, 2ª após 5 anos · faixa de 25 anos até 59 anos e 11 meses e 29 dias
+[SUS] Adulto / Profissional de saúde — Varicela: 2 dose(s): 1ª na 1ª visita, 2ª após 60 dias · faixa de 25 anos até 59 anos e 11 meses e 29 dias
+[SUS] Adulto / Indígena — Varicela: 2 dose(s): 1ª na 1ª visita, 2ª após 60 dias · faixa de 25 anos até 59 anos e 11 meses e 29 dias
+[SUS] Adulto / Profissional de saúde — SCR: 2 dose(s): 2ª após 28 dias · faixa de 30 anos até 59 anos e 11 meses e 29 dias
+[SUS] Idoso — COVID-19: Dose única · reforço/repetição: Semestral · faixa a partir de 60 anos
+[SUS] Idoso — dT: 3 dose(s): 1ª na 1ª visita, 2ª após 60 dias, 3ª após intervalo da norma · reforço/repetição: 10 anos · faixa a partir de 60 anos
+[SUS] Idoso — Febre Amarela: 2 dose(s): 1ª na 1ª visita, 2ª após 28 dias · faixa a partir de 60 anos
+[SUS] Idoso — Hepatite B: 3 dose(s): 1ª na 1ª visita, 2ª após 28 dias, 3ª após 60 dias · faixa a partir de 60 anos
+[SUS] Idoso — Influenza: Dose única · reforço/repetição: Anual · faixa a partir de 60 anos
+[SUS] Idoso / Profissional de saúde — dTpa: Dose única · reforço/repetição: 10 anos · faixa a partir de 60 anos
+[SUS] Idoso / Indígena — Pneumocócica 23-valente: 2 dose(s): 1ª na 1ª visita, 2ª após 5 anos · faixa a partir de 60 anos
+[SUS] Idoso / Acamado/Institucionalizado — Pneumocócica 23-valente: 2 dose(s): 1ª na 1ª visita, 2ª após 5 anos · faixa a partir de 60 anos
+[SUS] Idoso / Profissional de saúde — SCR: 2 dose(s): 1ª na 1ª visita, 2ª após 28 dias · faixa a partir de 60 anos
+[SUS] Idoso / Profissional de saúde — Varicela: 2 dose(s): 1ª na 1ª visita, 2ª após 60 dias · faixa a partir de 60 anos
+[SUS] Idoso / Indígena — Varicela: 2 dose(s): 1ª na 1ª visita, 2ª após 60 dias · faixa a partir de 60 anos
+[SUS] Gestante — COVID-19: Dose única · faixa a partir de 10 anos
+[SUS] Gestante — dT: 3 dose(s): 1ª na 1ª visita, 2ª após 60 dias, 3ª após 60 dias · faixa a partir de 10 anos
+[SUS] Gestante — dTpa: Dose única · a partir da 20ª semana de gestação · faixa a partir de 10 anos
+[SUS] Gestante — Hepatite B: 3 dose(s): 1ª na 1ª visita, 2ª após 28 dias, 3ª após 60 dias · faixa a partir de 10 anos
+[SUS] Gestante — Influenza: Dose única · reforço/repetição: Anual · faixa a partir de 10 anos
+[SUS] Gestante — VSR (vírus sincicial respiratório A e B): Dose única · a partir da 28ª semana de gestação · faixa a partir de 10 anos
+[Rede Privada] Todos — Meningocócica ACWY: Dose única · faixa qualquer idade
+[Rede Privada] Todos — Meningocócica B: 2 dose(s): 1ª na 1ª visita · faixa qualquer idade
+[Rede Privada] Todos — Pneumocócica 13: Dose única · faixa qualquer idade

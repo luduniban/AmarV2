@@ -1,0 +1,48 @@
+AMAR V — ANÁLISE DO ESQUEMA VACINAL
+============================================
+Paciente: Juliana Matos (fictícia)
+Nascimento: 26/08/1991 · Idade: 35 anos e 2 meses
+Grupo: Adulto
+Condições consideradas: Lactante, Amamenta criança < 6 meses
+Data da análise: 26/10/2026
+
+SITUAÇÃO VACINAL: EM ATRASO · REQUER AVALIAÇÃO
+Atrasadas: 4 · Aplicar hoje: 0 · Próximas: 0 · Em dia: 0
+! Paciente sem histórico vacinal registrado. Se houver caderneta, registre as doses antes de concluir a análise; sem comprovação, o esquema é considerado não iniciado.
+
+VACINAS EM ATRASO (SUS)
+--------------------------------------------
+- dT — 0 de 3 dose(s) · próxima: 1ª dose: Nenhuma dose registrada. 1ª dose recomendada desde 26/08/2016 (10 anos de atraso). Pode ser aplicada até 25/08/2051. Via: IM.
+- Febre Amarela — 0 de 1 dose(s) · próxima: 1ª dose: Nenhuma dose registrada. 1ª dose recomendada desde 26/08/2016 (10 anos de atraso). Pode ser aplicada até 25/08/2051. Via: SC. [ADIAR]
+- Hepatite B — 0 de 3 dose(s) · próxima: 1ª dose: Nenhuma dose registrada. 1ª dose recomendada desde 26/08/2016 (10 anos de atraso). Pode ser aplicada até 25/08/2051. Via: IM.
+- SCR — 0 de 1 dose(s) · próxima: 1ª dose: Nenhuma dose registrada. 1ª dose recomendada desde 26/08/2021 (5 anos de atraso). Pode ser aplicada até 25/08/2051. Via: SC.
+
+CONTRAINDICAÇÕES E PRECAUÇÕES
+--------------------------------------------
+- Febre Amarela [ADIAR]: Amamenta criança menor de 6 meses: adiar a febre amarela até o bebê completar 6 meses. Se a vacinação for imprescindível, suspender o aleitamento por 10 dias (ordenhar e armazenar o leite antes).
+
+ESQUEMA DE RECUPERAÇÃO / PRÓXIMOS ATENDIMENTOS
+--------------------------------------------
+Atendimento 1 — hoje, 26/10/2026
+   • dT — 1ª dose (IM) [atrasada]
+   • Hepatite B — 1ª dose (IM) [atrasada]
+   • SCR — 1ª dose (SC) [atrasada]
+Atendimento 2 — a partir de 23/11/2026
+   • Hepatite B — 2ª dose (IM)
+Atendimento 3 — a partir de 25/12/2026
+   • dT — 2ª dose (IM)
+Atendimento 4 — a partir de 23/02/2027
+   • dT — 3ª dose (IM)
+   • Hepatite B — 3ª dose (IM)
+
+REDE PRIVADA (complementares, não entram na situação do SUS)
+--------------------------------------------
+- Meningocócica ACWY [DISPONÍVEL]: Disponível na rede privada conforme indicação e produto utilizado.
+- Meningocócica B [DISPONÍVEL]: Disponível na rede privada conforme indicação e produto utilizado.
+- Pneumocócica 13 [DISPONÍVEL]: Disponível na rede privada conforme indicação e produto utilizado.
+
+HISTÓRICO REGISTRADO
+--------------------------------------------
+Nenhuma dose registrada.
+
+A análise é um apoio à decisão e não substitui a avaliação do profissional de saúde. Condições especiais podem exigir avaliação no CRIE.

@@ -1,0 +1,49 @@
+AMAR V — ANÁLISE DO ESQUEMA VACINAL
+============================================
+Paciente: Fernanda Alves (fictícia)
+Nascimento: 26/06/1996 · Idade: 30 anos e 4 meses
+Grupo: Gestante (adulto)
+Condições consideradas: Gestante (29 semanas)
+Data da análise: 26/10/2026
+
+SITUAÇÃO VACINAL: COM DOSES PARA APLICAR · REQUER AVALIAÇÃO
+Atrasadas: 0 · Aplicar hoje: 4 · Próximas: 0 · Em dia: 3
+
+VACINAS PARA APLICAR HOJE (SUS)
+--------------------------------------------
+- COVID-19 — 0 de 1 dose(s) · próxima: 1ª dose: Indicada em cada gestação; não há dose registrada nesta gestação. Via: IM.
+- dTpa — 0 de 1 dose(s) · próxima: 1ª dose: Indicada em cada gestação a partir da 20ª semana; gestante com 29 semanas. Via: IM.
+- Influenza — 0 de 1 dose(s) · próxima: dose anual: Nenhuma dose registrada. Dose anual indicada. Via: IM.
+- VSR (vírus sincicial respiratório A e B) — 0 de 1 dose(s) · próxima: 1ª dose: Indicada em cada gestação a partir da 28ª semana; gestante com 29 semanas. Via: IM.
+
+CONTRAINDICAÇÕES E PRECAUÇÕES
+--------------------------------------------
+- Febre Amarela [CONTRAINDICADA]: Febre amarela contraindicada na gestação, exceto em situação de risco epidemiológico (surto/viagem a área de risco) após avaliação. Programar para após o parto.
+
+ESQUEMA DE RECUPERAÇÃO / PRÓXIMOS ATENDIMENTOS
+--------------------------------------------
+Atendimento 1 — hoje, 26/10/2026
+   • COVID-19 — 1ª dose (IM)
+   • dTpa — 1ª dose (IM)
+   • Influenza — dose anual (IM)
+   • VSR (vírus sincicial respiratório A e B) — 1ª dose (IM)
+
+ESQUEMAS EM DIA
+--------------------------------------------
+- dT: Esquema completo (3 doses). Próximo reforço em 26/10/2031.
+- Hepatite B: Esquema completo (3 de 3 dose(s)).
+- SCR: Esquema completo (2 doses registradas).
+
+REDE PRIVADA (complementares, não entram na situação do SUS)
+--------------------------------------------
+- Meningocócica ACWY [DISPONÍVEL]: Disponível na rede privada conforme indicação e produto utilizado.
+- Meningocócica B [DISPONÍVEL]: Disponível na rede privada conforme indicação e produto utilizado.
+- Pneumocócica 13 [DISPONÍVEL]: Disponível na rede privada conforme indicação e produto utilizado.
+
+HISTÓRICO REGISTRADO
+--------------------------------------------
+- dT: 3 dose(s) — última em 26/10/2021
+- Hepatite B: 3 dose(s) — última em 26/04/2019
+- SCR: 2 dose(s) — última em 26/09/1997
+
+A análise é um apoio à decisão e não substitui a avaliação do profissional de saúde. Condições especiais podem exigir avaliação no CRIE.

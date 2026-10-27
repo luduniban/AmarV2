@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="maui_amarv.Views.CalendarioVacinal"
+             NavigationPage.HasNavigationBar="False"
+             BackgroundColor="#F4F6FA">
+
+    <!--
+        Calendário vacinal (RF05, RF11, RF12).
+        A lista é montada a partir das regras cadastradas no banco: quando o
+        administrador atualiza o calendário, esta tela mostra a versão nova.
+    -->
+    <Grid Padding="16"
+          RowDefinitions="Auto, Auto, *, Auto"
+          RowSpacing="10">
+
+        <Label Grid.Row="0"
+               Text="Calendário Vacinal"
+               FontSize="26"
+               FontAttributes="Bold"
+               TextColor="#1F3C88"
+               HorizontalTextAlignment="Center" />
+
+        <Grid Grid.Row="1"
+              ColumnDefinitions="*, *"
+              ColumnSpacing="8">
+            <Picker x:Name="pck_calendario"
+                    Grid.Column="0"
+                    Title="Calendário"
+                    TextColor="Black"
+                    SelectedIndexChanged="Filtro_Alterado" />
+            <Picker x:Name="pck_grupo"
+                    Grid.Column="1"
+                    Title="Grupo"
+                    TextColor="Black"
+                    SelectedIndexChanged="Filtro_Alterado" />
+        </Grid>
+
+        <ScrollView Grid.Row="2">
+            <VerticalStackLayout x:Name="pnl_calendario"
+                                 Spacing="8" />
+        </ScrollView>
+
+        <Button Grid.Row="3"
+                Text="Voltar"
+                BackgroundColor="#667085"
+                TextColor="White"
+                Clicked="Button_Voltar_Clicked" />
+    </Grid>
+
+</ContentPage>

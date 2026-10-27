@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="maui_amarv.Views.AnaliseVacinalPage"
+             NavigationPage.HasNavigationBar="False"
+             BackgroundColor="#F4F6FA">
+
+    <!--
+        Tela de análise vacinal (RF08 a RF14).
+        O resultado é montado em cartões no código (AnaliseVacinalPage.xaml.cs):
+        situação geral, alertas, vacinas atrasadas/para hoje, plano de
+        recuperação com datas, próximas doses, contraindicações e esquemas em dia.
+    -->
+    <Grid Padding="16"
+          RowDefinitions="Auto, Auto, *, Auto"
+          RowSpacing="10">
+
+        <Label Grid.Row="0"
+               Text="Análise Vacinal"
+               FontSize="26"
+               FontAttributes="Bold"
+               TextColor="#1F3C88"
+               HorizontalTextAlignment="Center" />
+
+        <Border Grid.Row="1"
+                BackgroundColor="White"
+                Stroke="#D0D5DD"
+                StrokeShape="RoundRectangle 10"
+                Padding="12">
+            <VerticalStackLayout Spacing="6">
+                <Label Text="Paciente"
+                       FontAttributes="Bold"
+                       TextColor="#344054" />
+                <Picker x:Name="pck_paciente"
+                        Title="Selecione o paciente"
+                        TextColor="Black"
+                        SelectedIndexChanged="pck_paciente_SelectedIndexChanged" />
+                <ActivityIndicator x:Name="ind_carregando"
+                                   IsRunning="False"
+                                   IsVisible="False"
+                                   Color="#1F3C88"
+                                   HeightRequest="24" />
+            </VerticalStackLayout>
+        </Border>
+
+        <ScrollView Grid.Row="2">
+            <VerticalStackLayout x:Name="pnl_resultado"
+                                 Spacing="10"
+                                 Padding="0,0,0,12">
+                <Label Text="Selecione um paciente para ver a situação vacinal, as vacinas em atraso e o plano de recuperação."
+                       TextColor="#475467"
+                       FontSize="15"
+                       HorizontalTextAlignment="Center"
+                       Margin="0,20,0,0" />
+            </VerticalStackLayout>
+        </ScrollView>
+
+        <Grid Grid.Row="3"
+              ColumnDefinitions="*, *, *"
+              ColumnSpacing="8">
+            <Button Grid.Column="0"
+                    Text="Compartilhar"
+                    BackgroundColor="#2B7A78"
+                    TextColor="White"
+                    Clicked="Button_Compartilhar_Clicked" />
+            <Button Grid.Column="1"
+                    Text="Relatório"
+                    BackgroundColor="#1F3C88"
+                    TextColor="White"
+                    Clicked="Button_Imprimir_Clicked" />
+            <Button Grid.Column="2"
+                    Text="Voltar"
+                    BackgroundColor="#667085"
+                    TextColor="White"
+                    Clicked="Button_Menu_Clicked" />
+        </Grid>
+
+    </Grid>
+
+</ContentPage>

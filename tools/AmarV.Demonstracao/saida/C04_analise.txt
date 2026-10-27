@@ -1,0 +1,56 @@
+AMAR V — ANÁLISE DO ESQUEMA VACINAL
+============================================
+Paciente: Alice Prado (fictícia)
+Nascimento: 26/04/2025 · Idade: 1 ano e 6 meses
+Grupo: Criança
+Data da análise: 26/10/2026
+
+SITUAÇÃO VACINAL: REGULAR
+Atrasadas: 0 · Aplicar hoje: 0 · Próximas: 3 · Em dia: 12
+
+PRÓXIMAS DOSES
+--------------------------------------------
+- DTP — 1 de 2 dose(s) · próxima: 2ª dose: 2ª dose a partir de 26/04/2029 (idade mínima: 4 anos). Via: IM.
+- Febre Amarela — 1 de 2 dose(s) · próxima: 2ª dose: 2ª dose a partir de 26/04/2029 (idade mínima: 4 anos). Via: SC.
+- Varicela — 1 de 2 dose(s) · próxima: 2ª dose: 2ª dose a partir de 26/04/2029 (idade mínima: 4 anos). Via: SC.
+
+ESQUEMAS EM DIA
+--------------------------------------------
+- BCG: Esquema completo (1 de 1 dose(s)).
+- COVID-19: Esquema completo (3 de 3 dose(s)).
+- Hepatite A: Esquema completo (1 de 1 dose(s)).
+- Hepatite B: Esquema completo (4 doses registradas). Inclui doses de vacinas combinadas (ex.: pentavalente).
+- Influenza: Última dose em 26/05/2026; próxima (anual) a partir de 26/05/2027.
+- Meningocócica ACWY: Esquema completo (1 de 1 dose(s)).
+- Meningocócica C: Esquema completo (2 de 2 dose(s)).
+- Pentavalente: Esquema completo (3 de 3 dose(s)).
+- Pneumocócica 10-valente: Esquema completo (3 de 3 dose(s)).
+- Rotavírus: Esquema completo (2 de 2 dose(s)).
+- SCR: Esquema completo (2 de 2 dose(s)).
+- VIP: Esquema completo (4 de 4 dose(s)).
+
+REDE PRIVADA (complementares, não entram na situação do SUS)
+--------------------------------------------
+- Meningocócica B [DISPONÍVEL]: Disponível na rede privada conforme indicação e produto utilizado.
+- Pneumocócica 13 [DISPONÍVEL]: Disponível na rede privada conforme indicação e produto utilizado.
+- Meningocócica ACWY [EM DIA]: Esquema completo (1 de 1 dose(s)).
+
+HISTÓRICO REGISTRADO
+--------------------------------------------
+- BCG: 1 dose(s) — última em 27/04/2025
+- COVID-19: 3 dose(s) — última em 26/01/2026
+- DTP: 1 dose(s) — última em 26/07/2026
+- Febre Amarela: 1 dose(s) — última em 26/01/2026
+- Hepatite A: 1 dose(s) — última em 26/07/2026
+- Hepatite B: 1 dose(s) — última em 26/04/2025
+- Influenza: 2 dose(s) — última em 26/05/2026
+- Meningocócica ACWY: 1 dose(s) — última em 26/04/2026
+- Meningocócica C: 2 dose(s) — última em 26/09/2025
+- Pentavalente: 3 dose(s) — última em 26/10/2025
+- Pneumocócica 10-valente: 3 dose(s) — última em 26/04/2026
+- Rotavírus: 2 dose(s) — última em 26/08/2025
+- SCR: 2 dose(s) — última em 26/07/2026
+- Varicela: 1 dose(s) — última em 26/07/2026
+- VIP: 4 dose(s) — última em 26/07/2026
+
+A análise é um apoio à decisão e não substitui a avaliação do profissional de saúde. Condições especiais podem exigir avaliação no CRIE.

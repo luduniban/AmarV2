@@ -1,0 +1,75 @@
+AMAR V — ANÁLISE DO ESQUEMA VACINAL
+============================================
+Paciente: Davi Rocha (fictício)
+Nascimento: 26/07/2022 · Idade: 4 anos e 3 meses
+Grupo: Criança
+Data da análise: 26/10/2026
+
+SITUAÇÃO VACINAL: EM ATRASO
+Atrasadas: 8 · Aplicar hoje: 1 · Próximas: 0 · Em dia: 6
+
+VACINAS EM ATRASO (SUS)
+--------------------------------------------
+- COVID-19 — 0 de 3 dose(s) · próxima: 1ª dose: Nenhuma dose registrada. 1ª dose recomendada desde 26/01/2023 (3 anos de atraso). Pode ser aplicada até 25/07/2027. Via: IM.
+- Meningocócica ACWY — 0 de 1 dose(s) · próxima: 1ª dose: Nenhuma dose registrada. 1ª dose recomendada desde 26/07/2023 (3 anos de atraso). Pode ser aplicada até 25/07/2027. Via: IM.
+- DTP — 0 de 2 dose(s) · próxima: 1ª dose: Nenhuma dose registrada. 1ª dose recomendada desde 26/10/2023 (3 anos de atraso). Pode ser aplicada até 25/07/2029. Via: IM.
+- Hepatite A — 0 de 1 dose(s) · próxima: 1ª dose: Nenhuma dose registrada. 1ª dose recomendada desde 26/10/2023 (3 anos de atraso). Pode ser aplicada até 25/07/2027. Via: IM.
+- SCR — 1 de 2 dose(s) · próxima: 2ª dose: 2ª dose recomendada desde 26/10/2023 (3 anos de atraso). Pode ser aplicada até 25/07/2032. Via: SC.
+- Varicela — 0 de 2 dose(s) · próxima: 1ª dose: Nenhuma dose registrada. 1ª dose recomendada desde 26/10/2023 (3 anos de atraso). Pode ser aplicada até 25/07/2029. Via: SC.
+- VIP — 3 de 4 dose(s) · próxima: 4ª dose: 4ª dose recomendada desde 26/10/2023 (3 anos de atraso). Pode ser aplicada até 25/07/2029. Via: IM.
+- Febre Amarela — 1 de 2 dose(s) · próxima: 2ª dose: 2ª dose recomendada desde 26/07/2026 (3 meses de atraso). Pode ser aplicada até 25/07/2032. Via: SC.
+
+VACINAS PARA APLICAR HOJE (SUS)
+--------------------------------------------
+- Influenza — 0 de 1 dose(s) · próxima: dose anual: Nenhuma dose registrada. Dose anual indicada. Via: IM.
+
+ESQUEMA DE RECUPERAÇÃO / PRÓXIMOS ATENDIMENTOS
+--------------------------------------------
+Atendimento 1 — hoje, 26/10/2026
+   • COVID-19 — 1ª dose (IM) [atrasada]
+   • Hepatite A — 1ª dose (IM) [atrasada]
+   • Meningocócica ACWY — 1ª dose (IM) [atrasada]
+   • DTP — 1ª dose (IM) [atrasada]
+   • Varicela — 1ª dose (SC) [atrasada]
+   • Febre Amarela — 2ª dose (SC) [atrasada]
+Atendimento 2 — a partir de 02/11/2026
+   • VIP — 4ª dose (IM) [atrasada]
+   • Influenza — dose anual (IM)
+Atendimento 3 — a partir de 25/11/2026
+   • COVID-19 — 2ª dose (IM)
+   • SCR — 2ª dose (SC) [atrasada]
+Atendimento 4 — a partir de 25/12/2026
+   • COVID-19 — 3ª dose (IM)
+Atendimento 5 — a partir de 24/01/2027
+   • Varicela — 2ª dose (SC)
+Atendimento 6 — a partir de 26/04/2027
+   • DTP — 2ª dose (IM)
+
+ESQUEMAS EM DIA
+--------------------------------------------
+- BCG: Esquema completo (1 de 1 dose(s)).
+- Hepatite B: Esquema completo (4 doses registradas). Inclui doses de vacinas combinadas (ex.: pentavalente).
+- Meningocócica C: Esquema completo (2 de 2 dose(s)).
+- Pentavalente: Esquema completo (3 de 3 dose(s)).
+- Pneumocócica 10-valente: Esquema completo (3 de 3 dose(s)).
+- Rotavírus: Esquema completo (2 de 2 dose(s)).
+
+REDE PRIVADA (complementares, não entram na situação do SUS)
+--------------------------------------------
+- Meningocócica ACWY [DISPONÍVEL]: Disponível na rede privada conforme indicação e produto utilizado.
+- Meningocócica B [DISPONÍVEL]: Disponível na rede privada conforme indicação e produto utilizado.
+- Pneumocócica 13 [DISPONÍVEL]: Disponível na rede privada conforme indicação e produto utilizado.
+
+HISTÓRICO REGISTRADO
+--------------------------------------------
+- BCG: 1 dose(s) — última em 28/07/2022
+- Febre Amarela: 1 dose(s) — última em 26/04/2023
+- Hepatite B: 1 dose(s) — última em 26/07/2022
+- Meningocócica C: 2 dose(s) — última em 26/12/2022
+- Pentavalente: 3 dose(s) — última em 26/01/2023
+- Pneumocócica 10-valente: 3 dose(s) — última em 26/07/2023
+- Rotavírus: 2 dose(s) — última em 26/11/2022
+- SCR: 1 dose(s) — última em 26/07/2023
+- VIP: 3 dose(s) — última em 26/01/2023
+
+A análise é um apoio à decisão e não substitui a avaliação do profissional de saúde. Condições especiais podem exigir avaliação no CRIE.

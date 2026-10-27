@@ -1,0 +1,85 @@
+AMAR V — ANÁLISE DO ESQUEMA VACINAL
+============================================
+Paciente: Helena Souza (fictícia)
+Nascimento: 20/08/2026 · Idade: 2 meses e 6 dias
+Grupo: Criança
+Data da análise: 26/10/2026
+
+SITUAÇÃO VACINAL: EM ATRASO
+Atrasadas: 1 · Aplicar hoje: 4 · Próximas: 6 · Em dia: 0
+! Paciente sem histórico vacinal registrado. Se houver caderneta, registre as doses antes de concluir a análise; sem comprovação, o esquema é considerado não iniciado.
+
+ALERTAS
+--------------------------------------------
+[INFO] Menor de 2 anos: febre amarela e tríplice viral (SCR) não devem ser aplicadas no mesmo dia na primovacinação. O plano abaixo já separa as duas com 30 dias de intervalo.
+
+VACINAS EM ATRASO (SUS)
+--------------------------------------------
+- BCG — 0 de 1 dose(s) · próxima: 1ª dose: Nenhuma dose registrada. 1ª dose recomendada desde 20/08/2026 (2 meses de atraso). Pode ser aplicada até 19/08/2031. Via: ID.
+
+VACINAS PARA APLICAR HOJE (SUS)
+--------------------------------------------
+- Pentavalente — 0 de 3 dose(s) · próxima: 1ª dose: 1ª dose indicada agora (recomendada a partir de 20/10/2026). Pode ser aplicada até 19/08/2033. Via: IM.
+- Pneumocócica 10-valente — 0 de 3 dose(s) · próxima: 1ª dose: 1ª dose indicada agora (recomendada a partir de 20/10/2026). Pode ser aplicada até 19/08/2031. Via: IM.
+- Rotavírus — 0 de 2 dose(s) · próxima: 1ª dose: 1ª dose indicada agora (recomendada a partir de 20/10/2026). Pode ser aplicada até 19/08/2027. Via: Oral.
+- VIP — 0 de 4 dose(s) · próxima: 1ª dose: 1ª dose indicada agora (recomendada a partir de 20/10/2026). Pode ser aplicada até 19/08/2033. Via: IM.
+
+ESQUEMA DE RECUPERAÇÃO / PRÓXIMOS ATENDIMENTOS
+--------------------------------------------
+Atendimento 1 — hoje, 26/10/2026
+   • BCG — 1ª dose (ID) [atrasada]
+   • Rotavírus — 1ª dose (Oral)
+   • Pneumocócica 10-valente — 1ª dose (IM)
+   • Pentavalente — 1ª dose (IM)
+Atendimento 2 — a partir de 02/11/2026
+   • VIP — 1ª dose (IM)
+Atendimento 3 — a partir de 20/11/2026
+   • Meningocócica C — 1ª dose (IM)
+Atendimento 4 — a partir de 20/12/2026
+   • Pneumocócica 10-valente — 2ª dose (IM)
+   • Rotavírus — 2ª dose (Oral)
+   • Pentavalente — 2ª dose (IM)
+Atendimento 5 — a partir de 27/12/2026
+   • VIP — 2ª dose (IM)
+Atendimento 6 — a partir de 20/01/2027
+   • Meningocócica C — 2ª dose (IM)
+Atendimento 7 — a partir de 20/02/2027
+   • Pentavalente — 3ª dose (IM)
+   • VIP — 3ª dose (IM)
+Atendimento 8 — a partir de 27/02/2027
+   • COVID-19 — 1ª dose (IM)
+   • Influenza — dose anual (IM)
+Atendimento 9 — a partir de 29/03/2027
+   • COVID-19 — 2ª dose (IM)
+Atendimento 10 — a partir de 20/05/2027
+   • COVID-19 — 3ª dose (IM)
+   • Febre Amarela — 1ª dose (SC)
+Atendimento 11 — a partir de 20/08/2027
+   • Pneumocócica 10-valente — 3ª dose (IM)
+   • Meningocócica ACWY — 1ª dose (IM)
+   • SCR — 1ª dose (SC)
+
+PRÓXIMAS DOSES
+--------------------------------------------
+- Meningocócica C — 0 de 2 dose(s) · próxima: 1ª dose: 1ª dose a partir de 20/11/2026 (idade mínima: 3 meses). Via: IM.
+- COVID-19 — 0 de 3 dose(s) · próxima: 1ª dose: 1ª dose a partir de 20/02/2027 (idade mínima: 6 meses). Via: IM.
+- Influenza — 0 de 1 dose(s) · próxima: dose anual: Dose anual a partir de 20/02/2027. Via: IM.
+- Febre Amarela — 0 de 2 dose(s) · próxima: 1ª dose: 1ª dose a partir de 20/05/2027 (idade mínima: 9 meses). Via: SC.
+- Meningocócica ACWY — 0 de 1 dose(s) · próxima: 1ª dose: 1ª dose a partir de 20/08/2027 (idade mínima: 1 ano). Via: IM.
+- SCR — 0 de 2 dose(s) · próxima: 1ª dose: 1ª dose a partir de 20/08/2027 (idade mínima: 1 ano). Via: SC.
+
+FORA DA FAIXA ETÁRIA (não recuperar)
+--------------------------------------------
+- Hepatite B: Esquema não iniciado. A 1ª dose só pode ser aplicada até 1 mês (prazo encerrado em 19/10/2026). Indicação: Dose ao nascer, preferencialmente nas primeiras 12 horas de vida. Quem não recebeu até 30 dias de vida inicia o esquema com a pentavalente.
+
+REDE PRIVADA (complementares, não entram na situação do SUS)
+--------------------------------------------
+- Meningocócica ACWY [DISPONÍVEL]: Disponível na rede privada conforme indicação e produto utilizado.
+- Meningocócica B [DISPONÍVEL]: Disponível na rede privada conforme indicação e produto utilizado.
+- Pneumocócica 13 [DISPONÍVEL]: Disponível na rede privada conforme indicação e produto utilizado.
+
+HISTÓRICO REGISTRADO
+--------------------------------------------
+Nenhuma dose registrada.
+
+A análise é um apoio à decisão e não substitui a avaliação do profissional de saúde. Condições especiais podem exigir avaliação no CRIE.

@@ -1,0 +1,81 @@
+AMAR V — ANÁLISE DO ESQUEMA VACINAL
+============================================
+Paciente: Miguel Lima (fictício)
+Nascimento: 23/08/2026 · Idade: 2 meses e 3 dias
+Grupo: Criança
+Data da análise: 26/10/2026
+
+SITUAÇÃO VACINAL: COM DOSES PARA APLICAR
+Atrasadas: 0 · Aplicar hoje: 4 · Próximas: 6 · Em dia: 2
+
+ALERTAS
+--------------------------------------------
+[INFO] Menor de 2 anos: febre amarela e tríplice viral (SCR) não devem ser aplicadas no mesmo dia na primovacinação. O plano abaixo já separa as duas com 30 dias de intervalo.
+
+VACINAS PARA APLICAR HOJE (SUS)
+--------------------------------------------
+- Pentavalente — 0 de 3 dose(s) · próxima: 1ª dose: 1ª dose indicada agora (recomendada a partir de 23/10/2026). Pode ser aplicada até 22/08/2033. Via: IM.
+- Pneumocócica 10-valente — 0 de 3 dose(s) · próxima: 1ª dose: 1ª dose indicada agora (recomendada a partir de 23/10/2026). Pode ser aplicada até 22/08/2031. Via: IM.
+- Rotavírus — 0 de 2 dose(s) · próxima: 1ª dose: 1ª dose indicada agora (recomendada a partir de 23/10/2026). Pode ser aplicada até 22/08/2027. Via: Oral.
+- VIP — 0 de 4 dose(s) · próxima: 1ª dose: 1ª dose indicada agora (recomendada a partir de 23/10/2026). Pode ser aplicada até 22/08/2033. Via: IM.
+
+ESQUEMA DE RECUPERAÇÃO / PRÓXIMOS ATENDIMENTOS
+--------------------------------------------
+Atendimento 1 — hoje, 26/10/2026
+   • Rotavírus — 1ª dose (Oral)
+   • Pneumocócica 10-valente — 1ª dose (IM)
+   • Pentavalente — 1ª dose (IM)
+Atendimento 2 — a partir de 02/11/2026
+   • VIP — 1ª dose (IM)
+Atendimento 3 — a partir de 23/11/2026
+   • Meningocócica C — 1ª dose (IM)
+Atendimento 4 — a partir de 23/12/2026
+   • Pneumocócica 10-valente — 2ª dose (IM)
+   • Rotavírus — 2ª dose (Oral)
+   • Pentavalente — 2ª dose (IM)
+Atendimento 5 — a partir de 30/12/2026
+   • VIP — 2ª dose (IM)
+Atendimento 6 — a partir de 23/01/2027
+   • Meningocócica C — 2ª dose (IM)
+Atendimento 7 — a partir de 23/02/2027
+   • Pentavalente — 3ª dose (IM)
+   • VIP — 3ª dose (IM)
+Atendimento 8 — a partir de 02/03/2027
+   • COVID-19 — 1ª dose (IM)
+   • Influenza — dose anual (IM)
+Atendimento 9 — a partir de 01/04/2027
+   • COVID-19 — 2ª dose (IM)
+Atendimento 10 — a partir de 23/05/2027
+   • COVID-19 — 3ª dose (IM)
+   • Febre Amarela — 1ª dose (SC)
+Atendimento 11 — a partir de 23/08/2027
+   • Pneumocócica 10-valente — 3ª dose (IM)
+   • Meningocócica ACWY — 1ª dose (IM)
+   • SCR — 1ª dose (SC)
+
+PRÓXIMAS DOSES
+--------------------------------------------
+- Meningocócica C — 0 de 2 dose(s) · próxima: 1ª dose: 1ª dose a partir de 23/11/2026 (idade mínima: 3 meses). Via: IM.
+- COVID-19 — 0 de 3 dose(s) · próxima: 1ª dose: 1ª dose a partir de 23/02/2027 (idade mínima: 6 meses). Via: IM.
+- Influenza — 0 de 1 dose(s) · próxima: dose anual: Dose anual a partir de 23/02/2027. Via: IM.
+- Febre Amarela — 0 de 2 dose(s) · próxima: 1ª dose: 1ª dose a partir de 23/05/2027 (idade mínima: 9 meses). Via: SC.
+- Meningocócica ACWY — 0 de 1 dose(s) · próxima: 1ª dose: 1ª dose a partir de 23/08/2027 (idade mínima: 1 ano). Via: IM.
+- SCR — 0 de 2 dose(s) · próxima: 1ª dose: 1ª dose a partir de 23/08/2027 (idade mínima: 1 ano). Via: SC.
+
+ESQUEMAS EM DIA
+--------------------------------------------
+- BCG: Esquema completo (1 de 1 dose(s)).
+- Hepatite B: Esquema completo (1 de 1 dose(s)).
+
+REDE PRIVADA (complementares, não entram na situação do SUS)
+--------------------------------------------
+- Meningocócica ACWY [DISPONÍVEL]: Disponível na rede privada conforme indicação e produto utilizado.
+- Meningocócica B [DISPONÍVEL]: Disponível na rede privada conforme indicação e produto utilizado.
+- Pneumocócica 13 [DISPONÍVEL]: Disponível na rede privada conforme indicação e produto utilizado.
+
+HISTÓRICO REGISTRADO
+--------------------------------------------
+- BCG: 1 dose(s) — última em 24/08/2026
+- Hepatite B: 1 dose(s) — última em 23/08/2026
+
+A análise é um apoio à decisão e não substitui a avaliação do profissional de saúde. Condições especiais podem exigir avaliação no CRIE.

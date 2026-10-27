@@ -1,0 +1,61 @@
+AMAR V — ANÁLISE DO ESQUEMA VACINAL
+============================================
+Paciente: Lucas Pereira (fictício)
+Nascimento: 26/09/2014 · Idade: 12 anos e 1 mês
+Grupo: Adolescente/Jovem
+Condições consideradas: Imunossuprimido, Quimioterapia
+Data da análise: 26/10/2026
+
+SITUAÇÃO VACINAL: EM ATRASO · REQUER AVALIAÇÃO
+Atrasadas: 2 · Aplicar hoje: 2 · Próximas: 0 · Em dia: 5
+
+ALERTAS
+--------------------------------------------
+[ATENÇÃO] Condição imunológica especial: vacinas inativadas podem ter resposta reduzida e o CRIE pode indicar esquemas especiais. Vacinas vivas foram marcadas como contraindicadas ou a avaliar.
+
+VACINAS EM ATRASO (SUS)
+--------------------------------------------
+- HPV — 0 de 1 dose(s) · próxima: 1ª dose: Nenhuma dose registrada. 1ª dose recomendada desde 26/09/2023 (3 anos de atraso). Pode ser aplicada até 25/09/2029. Via: IM.
+- Meningocócica ACWY — 0 de 1 dose(s) · próxima: 1ª dose: Nenhuma dose registrada. 1ª dose recomendada desde 26/09/2025 (1 ano e 1 mês de atraso). Pode ser aplicada até 25/09/2029. Via: IM.
+
+VACINAS PARA APLICAR HOJE (SUS)
+--------------------------------------------
+- COVID-19 — 0 de 1 dose(s) · próxima: dose anual: Nenhuma dose registrada. Dose anual indicada. Via: IM.
+- Influenza — 0 de 1 dose(s) · próxima: dose anual: Nenhuma dose registrada. Dose anual indicada. Via: IM.
+
+CONTRAINDICAÇÕES E PRECAUÇÕES
+--------------------------------------------
+- Dengue [CONTRAINDICADA]: Vacina de agente vivo contraindicada em imunossupressão (imunossupressor, quimioterapia, transplante ou corticoide/imunobiológico). Encaminhar ao CRIE para avaliação.
+
+ESQUEMA DE RECUPERAÇÃO / PRÓXIMOS ATENDIMENTOS
+--------------------------------------------
+Atendimento 1 — hoje, 26/10/2026
+   • HPV — 1ª dose (IM) [atrasada]
+   • Meningocócica ACWY — 1ª dose (IM) [atrasada]
+   • COVID-19 — dose anual (IM)
+   • Influenza — dose anual (IM)
+
+ESQUEMAS EM DIA
+--------------------------------------------
+- dT: Esquema completo (5 doses). Próximo reforço em 26/09/2028.
+- Febre Amarela: Esquema completo (2 de 2 dose(s)).
+- Hepatite B: Esquema completo (4 doses registradas). Inclui doses de vacinas combinadas (ex.: pentavalente).
+- SCR: Esquema completo (2 de 2 dose(s)).
+- VIP: Esquema completo (4 doses registradas).
+
+REDE PRIVADA (complementares, não entram na situação do SUS)
+--------------------------------------------
+- Meningocócica ACWY [DISPONÍVEL]: Disponível na rede privada conforme indicação e produto utilizado.
+- Meningocócica B [DISPONÍVEL]: Disponível na rede privada conforme indicação e produto utilizado.
+- Pneumocócica 13 [DISPONÍVEL]: Disponível na rede privada conforme indicação e produto utilizado.
+
+HISTÓRICO REGISTRADO
+--------------------------------------------
+- DTP: 2 dose(s) — última em 26/09/2018
+- Febre Amarela: 2 dose(s) — última em 26/09/2018
+- Hepatite B: 1 dose(s) — última em 26/09/2014
+- Pentavalente: 3 dose(s) — última em 26/03/2015
+- SCR: 2 dose(s) — última em 26/12/2015
+- VIP: 4 dose(s) — última em 26/12/2015
+
+A análise é um apoio à decisão e não substitui a avaliação do profissional de saúde. Condições especiais podem exigir avaliação no CRIE.

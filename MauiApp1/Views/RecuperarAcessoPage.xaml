@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    x:Class="maui_amarv.Views.RecuperarAcessoPage"
+    Title="Recuperar acesso"
+    BackgroundColor="{StaticResource Gray100}">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Padding="24"
+            Spacing="14">
+
+            <Label
+                Text="Recuperar acesso"
+                FontSize="28"
+                FontAttributes="Bold"
+                HorizontalTextAlignment="Center" />
+
+            <Label
+                Text="Informe o CPF e a data de nascimento cadastrados no Amar V."
+                HorizontalTextAlignment="Center" />
+
+            <Label Text="CPF:" />
+
+            <Entry
+                x:Name="entry_cpf"
+                Placeholder="Digite o CPF"
+                Keyboard="Numeric"
+                MaxLength="14" />
+
+            <Label Text="Data de nascimento:" />
+
+            <DatePicker
+                x:Name="date_nascimento"
+                Format="dd/MM/yyyy" />
+
+            <Label Text="Nova senha:" />
+
+            <Entry
+                x:Name="entry_nova_senha"
+                Placeholder="Mínimo de 6 caracteres"
+                IsPassword="True" />
+
+            <Label Text="Confirmar nova senha:" />
+
+            <Entry
+                x:Name="entry_confirmar_senha"
+                Placeholder="Digite novamente a senha"
+                IsPassword="True" />
+
+            <Button
+                Text="Redefinir senha"
+                Clicked="Button_Redefinir_Clicked" />
+
+            <Button
+                Text="Voltar ao login"
+                Clicked="Button_Voltar_Clicked"
+                BackgroundColor="Gray" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

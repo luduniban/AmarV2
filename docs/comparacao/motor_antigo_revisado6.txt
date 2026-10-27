@@ -1,0 +1,191 @@
+#################### Cenário 1 — bebê de 2 meses sem vacinas
+ANÁLISE DO ESQUEMA VACINAL
+========================================
+Paciente: Cenário 1 — bebê de 2 meses sem vacinas
+Idade: 0 ano(s) e 2 mês(es)
+Grupo: Criança
+
+LIMITE OPERACIONAL DO ATENDIMENTO
+----------------------------------------
+Subcutânea (SC): 0/2
+Intramuscular (IM): 4/4
+Oral: 1 — sem limite operacional
+Os limites SC e IM são compartilhados entre SUS e Rede Privada no mesmo atendimento.
+Observação: trata-se de uma regra operacional configurada no aplicativo.
+
+HISTÓRICO VACINAL
+Paciente não possui histórico vacinal registrado no sistema.
+
+SITUAÇÃO VACINAL — SUS
+- BCG — dose 1: LIBERADA PARA ESTE ATENDIMENTO — nenhuma dose registrada no histórico.
+- Pentavalente — dose 1: LIBERADA PARA ESTE ATENDIMENTO — nenhuma dose registrada no histórico.
+- VIP — dose 1: LIBERADA PARA ESTE ATENDIMENTO — nenhuma dose registrada no histórico.
+- Rotavírus — dose 1: LIBERADA PARA ESTE ATENDIMENTO — nenhuma dose registrada no histórico.
+- Pneumocócica 10-valente — dose 1: LIBERADA PARA ESTE ATENDIMENTO — nenhuma dose registrada no histórico.
+
+SITUAÇÃO VACINAL — REDE PRIVADA
+- Meningocócica B — dose 1: LIBERADA PARA ESTE ATENDIMENTO — nenhuma dose registrada no histórico.
+- Meningocócica ACWY — dose 1: PENDENTE — limite operacional de aplicações da intramuscular (IM) atingido neste atendimento. Programar para o próximo atendimento.
+- Pneumocócica 13 — dose 1: PENDENTE — limite operacional de aplicações da intramuscular (IM) atingido neste atendimento. Programar para o próximo atendimento.
+
+PRÓXIMAS VACINAS
+Nenhuma dose futura identificada nas regras aplicáveis.
+
+ESQUEMA DE RECUPERAÇÃO — SUS
+- BCG: realizar a dose indicada conforme o calendário configurado.
+- Pentavalente: iniciar esquema de 3 dose(s).
+- VIP: iniciar esquema de 3 dose(s).
+- Rotavírus: iniciar esquema de 2 dose(s).
+- Pneumocócica 10-valente: iniciar esquema de 3 dose(s).
+
+ESQUEMA DE RECUPERAÇÃO — REDE PRIVADA
+- Meningocócica B: iniciar esquema de 2 dose(s).
+- Meningocócica ACWY: programar a dose para o próximo atendimento devido ao limite operacional da intramuscular (IM).
+- Pneumocócica 13: programar a dose para o próximo atendimento devido ao limite operacional da intramuscular (IM).
+
+ALERTAS DE SEGURANÇA
+Nenhum alerta específico identificado pelos dados informados.
+
+CONTRAINDICAÇÕES / PRECAUÇÕES
+Nenhuma contraindicação ou precaução específica identificada.
+
+VACINAS DO SUS CONSIDERADAS
+- BCG
+- Influenza
+- Pentavalente
+- Pneumocócica 10-valente
+- Rotavírus
+- VIP
+
+VACINAS DA REDE PRIVADA CONSIDERADAS
+
+OBSERVAÇÃO
+A análise é um apoio à regularização vacinal e não substitui a avaliação do serviço de saúde.
+Condições clínicas especiais podem exigir avaliação em CRIE/RIE.
+O limite de aplicações por via apresentado nesta análise corresponde à regra operacional configurada no aplicativo e não deve ser interpretado isoladamente como protocolo nacional de vacinação.
+
+#################### Cenário 3 — adulta de 35 anos, lactante (bebê < 6 meses), sem histórico
+ANÁLISE DO ESQUEMA VACINAL
+========================================
+Paciente: Cenário 3 — adulta de 35 anos, lactante (bebê < 6 meses), sem histórico
+Idade: 35 ano(s) e 2 mês(es)
+Grupo: Adulto
+
+LIMITE OPERACIONAL DO ATENDIMENTO
+----------------------------------------
+Subcutânea (SC): 1/2
+Intramuscular (IM): 4/4
+Oral: 0 — sem limite operacional
+Os limites SC e IM são compartilhados entre SUS e Rede Privada no mesmo atendimento.
+Observação: trata-se de uma regra operacional configurada no aplicativo.
+
+HISTÓRICO VACINAL
+Paciente não possui histórico vacinal registrado no sistema.
+
+SITUAÇÃO VACINAL — SUS
+- Hepatite B — dose 1: LIBERADA PARA ESTE ATENDIMENTO — nenhuma dose registrada no histórico.
+- dT — dose 1: LIBERADA PARA ESTE ATENDIMENTO — nenhuma dose registrada no histórico.
+- SCR — dose 1: LIBERADA PARA ESTE ATENDIMENTO — nenhuma dose registrada no histórico.
+- Febre Amarela — dose 1: CONTRAINDICADA — a paciente amamenta criança com até 6 meses (risco de transmissão do vírus vacinal). Só vacinar se for imprescindível, com avaliação do serviço de saúde e suspensão do aleitamento por no mínimo 10 dias.
+
+SITUAÇÃO VACINAL — REDE PRIVADA
+- Meningocócica B — dose 1: LIBERADA PARA ESTE ATENDIMENTO — nenhuma dose registrada no histórico.
+- Meningocócica ACWY — dose 1: LIBERADA PARA ESTE ATENDIMENTO — nenhuma dose registrada no histórico.
+- Pneumocócica 13 — dose 1: PENDENTE — limite operacional de aplicações da intramuscular (IM) atingido neste atendimento. Programar para o próximo atendimento.
+
+PRÓXIMAS VACINAS
+Nenhuma dose futura identificada nas regras aplicáveis.
+
+ESQUEMA DE RECUPERAÇÃO — SUS
+- Hepatite B: iniciar esquema de 3 dose(s).
+- dT: iniciar esquema básico de 3 doses.
+- SCR: realizar a dose indicada conforme o calendário configurado.
+
+ESQUEMA DE RECUPERAÇÃO — REDE PRIVADA
+- Meningocócica B: iniciar esquema de 2 dose(s).
+- Meningocócica ACWY: realizar a dose indicada conforme o calendário configurado.
+- Pneumocócica 13: programar a dose para o próximo atendimento devido ao limite operacional da intramuscular (IM).
+
+ALERTAS DE SEGURANÇA
+- FEBRE AMARELA CONTRAINDICADA: a paciente amamenta criança com até 6 meses (risco de transmissão do vírus vacinal). Se a vacinação for imprescindível, suspender a amamentação por no mínimo 10 dias, orientando a extração e o armazenamento do leite antes da vacina. Em vacinação inadvertida, suspender o aleitamento por 10 dias e acompanhar o bebê por 30 dias.
+
+CONTRAINDICAÇÕES / PRECAUÇÕES
+Nenhuma contraindicação ou precaução específica identificada.
+
+VACINAS DO SUS CONSIDERADAS
+- dT
+- Febre Amarela
+- Hepatite B
+- SCR
+
+VACINAS DA REDE PRIVADA CONSIDERADAS
+
+OBSERVAÇÃO
+A análise é um apoio à regularização vacinal e não substitui a avaliação do serviço de saúde.
+Condições clínicas especiais podem exigir avaliação em CRIE/RIE.
+O limite de aplicações por via apresentado nesta análise corresponde à regra operacional configurada no aplicativo e não deve ser interpretado isoladamente como protocolo nacional de vacinação.
+
+#################### Cenário 5 — idoso de 68 anos, dT há 12 anos
+ANÁLISE DO ESQUEMA VACINAL
+========================================
+Paciente: Cenário 5 — idoso de 68 anos, dT há 12 anos
+Idade: 68 ano(s) e 0 mês(es)
+Grupo: Idoso
+
+LIMITE OPERACIONAL DO ATENDIMENTO
+----------------------------------------
+Subcutânea (SC): 1/2
+Intramuscular (IM): 4/4
+Oral: 0 — sem limite operacional
+Os limites SC e IM são compartilhados entre SUS e Rede Privada no mesmo atendimento.
+Observação: trata-se de uma regra operacional configurada no aplicativo.
+
+HISTÓRICO VACINAL
+- dT: 3 dose(s) — última aplicação: 26/10/2014
+- Influenza: 1 dose(s) — última aplicação: 26/04/2025
+
+SITUAÇÃO VACINAL — SUS
+- Hepatite B — dose 1: LIBERADA PARA ESTE ATENDIMENTO — nenhuma dose registrada no histórico.
+- Febre Amarela — dose 1: LIBERADA PARA ESTE ATENDIMENTO — nenhuma dose registrada no histórico.
+- COVID-19 — dose 1: LIBERADA PARA ESTE ATENDIMENTO — não há registro de aplicação.
+- dT — dose 3: LIBERADA PARA ESTE ATENDIMENTO — ATRASADA — esquema básico completo; última aplicação em 26/10/2014. O reforço de dT venceu em 26/10/2024.
+- Influenza — dose 1: LIBERADA PARA ESTE ATENDIMENTO — ATRASADA — última aplicação em 26/04/2025; próxima prevista para 26/04/2026.
+
+SITUAÇÃO VACINAL — REDE PRIVADA
+- Meningocócica B — dose 1: PENDENTE — limite operacional de aplicações da intramuscular (IM) atingido neste atendimento. Programar para o próximo atendimento.
+- Meningocócica ACWY — dose 1: PENDENTE — limite operacional de aplicações da intramuscular (IM) atingido neste atendimento. Programar para o próximo atendimento.
+- Pneumocócica 13 — dose 1: PENDENTE — limite operacional de aplicações da intramuscular (IM) atingido neste atendimento. Programar para o próximo atendimento.
+
+PRÓXIMAS VACINAS
+Nenhuma dose futura identificada nas regras aplicáveis.
+
+ESQUEMA DE RECUPERAÇÃO — SUS
+- Hepatite B: iniciar esquema de 3 dose(s).
+- dT: realizar reforço, pois já se passaram 10 anos desde a última dose registrada.
+- Febre Amarela: realizar a dose indicada conforme o calendário configurado.
+
+ESQUEMA DE RECUPERAÇÃO — REDE PRIVADA
+- Meningocócica B: programar a dose para o próximo atendimento devido ao limite operacional da intramuscular (IM).
+- Meningocócica ACWY: programar a dose para o próximo atendimento devido ao limite operacional da intramuscular (IM).
+- Pneumocócica 13: programar a dose para o próximo atendimento devido ao limite operacional da intramuscular (IM).
+
+ALERTAS DE SEGURANÇA
+- FEBRE AMARELA A PARTIR DE 60 ANOS: aplicar somente após avaliação do risco (residentes ou viajantes de áreas com circulação do vírus) e das comorbidades.
+
+CONTRAINDICAÇÕES / PRECAUÇÕES
+Nenhuma contraindicação ou precaução específica identificada.
+
+VACINAS DO SUS CONSIDERADAS
+- COVID-19
+- dT
+- Febre Amarela
+- Hepatite B
+- Influenza
+
+VACINAS DA REDE PRIVADA CONSIDERADAS
+
+OBSERVAÇÃO
+A análise é um apoio à regularização vacinal e não substitui a avaliação do serviço de saúde.
+Condições clínicas especiais podem exigir avaliação em CRIE/RIE.
+O limite de aplicações por via apresentado nesta análise corresponde à regra operacional configurada no aplicativo e não deve ser interpretado isoladamente como protocolo nacional de vacinação.
+

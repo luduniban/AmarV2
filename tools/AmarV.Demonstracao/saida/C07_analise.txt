@@ -1,0 +1,50 @@
+AMAR V — ANÁLISE DO ESQUEMA VACINAL
+============================================
+Paciente: José Ribeiro (fictício)
+Nascimento: 16/09/1958 · Idade: 68 anos e 1 mês
+Grupo: Idoso
+Data da análise: 26/10/2026
+
+SITUAÇÃO VACINAL: EM ATRASO · REQUER AVALIAÇÃO
+Atrasadas: 3 · Aplicar hoje: 2 · Próximas: 0 · Em dia: 0
+
+VACINAS EM ATRASO (SUS)
+--------------------------------------------
+- Febre Amarela — 0 de 1 dose(s) · próxima: 1ª dose: Nenhuma dose registrada. 1ª dose recomendada desde 16/09/2018 (8 anos de atraso). Via: SC. [ATRASADA · AVALIAR]
+- Hepatite B — 0 de 3 dose(s) · próxima: 1ª dose: Nenhuma dose registrada. 1ª dose recomendada desde 16/09/2018 (8 anos de atraso). Via: IM.
+- dT — 3 de 3 dose(s) · próxima: reforço: Esquema completo (3 doses). Reforço a cada 10 anos vencido em 26/10/2024 (última dose em 26/10/2014). Via: IM.
+
+VACINAS PARA APLICAR HOJE (SUS)
+--------------------------------------------
+- Influenza — 1 de 1 dose(s) · próxima: dose anual: Última dose em 26/04/2025; nova dose (anual) indicada desde 26/04/2026. Via: IM.
+- COVID-19 — 0 de 1 dose(s) · próxima: dose semestral: Nenhuma dose registrada. Dose semestral indicada. Via: IM.
+
+CONTRAINDICAÇÕES E PRECAUÇÕES
+--------------------------------------------
+- Febre Amarela [ATRASADA · AVALIAR]: A partir de 60 anos, febre amarela somente após avaliação de risco (área com circulação do vírus, viagem) e das comorbidades.
+
+ESQUEMA DE RECUPERAÇÃO / PRÓXIMOS ATENDIMENTOS
+--------------------------------------------
+Atendimento 1 — hoje, 26/10/2026
+   • dT — reforço (IM) [atrasada]
+   • Febre Amarela — 1ª dose (SC) [atrasada] [avaliar antes]
+   • Hepatite B — 1ª dose (IM) [atrasada]
+   • COVID-19 — dose semestral (IM)
+   • Influenza — dose anual (IM)
+Atendimento 2 — a partir de 23/11/2026
+   • Hepatite B — 2ª dose (IM)
+Atendimento 3 — a partir de 15/02/2027
+   • Hepatite B — 3ª dose (IM)
+
+REDE PRIVADA (complementares, não entram na situação do SUS)
+--------------------------------------------
+- Meningocócica ACWY [DISPONÍVEL]: Disponível na rede privada conforme indicação e produto utilizado.
+- Meningocócica B [DISPONÍVEL]: Disponível na rede privada conforme indicação e produto utilizado.
+- Pneumocócica 13 [DISPONÍVEL]: Disponível na rede privada conforme indicação e produto utilizado.
+
+HISTÓRICO REGISTRADO
+--------------------------------------------
+- dT: 3 dose(s) — última em 26/10/2014
+- Influenza: 1 dose(s) — última em 26/04/2025
+
+A análise é um apoio à decisão e não substitui a avaliação do profissional de saúde. Condições especiais podem exigir avaliação no CRIE.

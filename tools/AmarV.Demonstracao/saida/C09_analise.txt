@@ -1,0 +1,97 @@
+AMAR V — ANÁLISE DO ESQUEMA VACINAL
+============================================
+Paciente: Sofia Nunes (fictícia)
+Nascimento: 26/10/2023 · Idade: 3 anos
+Grupo: Criança
+Condições consideradas: Febre/doença aguda
+Data da análise: 26/10/2026
+
+SITUAÇÃO VACINAL: EM ATRASO · REQUER AVALIAÇÃO
+Atrasadas: 9 · Aplicar hoje: 1 · Próximas: 0 · Em dia: 3
+
+ALERTAS
+--------------------------------------------
+[BLOQUEIO] Febre ou doença aguda informada: nenhuma vacina deve ser aplicada hoje. Reavaliar o paciente após a melhora.
+
+VACINAS EM ATRASO (SUS)
+--------------------------------------------
+- Pneumocócica 10-valente — 0 de 1 dose(s) · próxima: 1ª dose: Nenhuma dose registrada. 1ª dose recomendada desde 26/12/2023 (2 anos de atraso). Pode ser aplicada até 25/10/2028. Via: IM. [ADIAR]
+- COVID-19 — 0 de 3 dose(s) · próxima: 1ª dose: Nenhuma dose registrada. 1ª dose recomendada desde 26/04/2024 (2 anos de atraso). Pode ser aplicada até 25/10/2028. Via: IM. [ADIAR]
+- Febre Amarela — 0 de 2 dose(s) · próxima: 1ª dose: Nenhuma dose registrada. 1ª dose recomendada desde 26/07/2024 (2 anos de atraso). Pode ser aplicada até 25/10/2033. Via: SC. [ADIAR]
+- Meningocócica ACWY — 0 de 1 dose(s) · próxima: 1ª dose: Nenhuma dose registrada. 1ª dose recomendada desde 26/10/2024 (2 anos de atraso). Pode ser aplicada até 25/10/2028. Via: IM. [ADIAR]
+- SCR — 0 de 2 dose(s) · próxima: 1ª dose: Nenhuma dose registrada. 1ª dose recomendada desde 26/10/2024 (2 anos de atraso). Pode ser aplicada até 25/10/2033. Via: SC. [ADIAR]
+- DTP — 0 de 2 dose(s) · próxima: 1ª dose: Nenhuma dose registrada. 1ª dose recomendada desde 26/01/2025 (1 ano e 9 meses de atraso). Pode ser aplicada até 25/10/2030. Via: IM. [ADIAR]
+- Hepatite A — 0 de 1 dose(s) · próxima: 1ª dose: Nenhuma dose registrada. 1ª dose recomendada desde 26/01/2025 (1 ano e 9 meses de atraso). Pode ser aplicada até 25/10/2028. Via: IM. [ADIAR]
+- Varicela — 0 de 2 dose(s) · próxima: 1ª dose: Nenhuma dose registrada. 1ª dose recomendada desde 26/01/2025 (1 ano e 9 meses de atraso). Pode ser aplicada até 25/10/2030. Via: SC. [ADIAR]
+- VIP — 3 de 4 dose(s) · próxima: 4ª dose: 4ª dose recomendada desde 26/01/2025 (1 ano e 9 meses de atraso). Pode ser aplicada até 25/10/2030. Via: IM. [ADIAR]
+
+VACINAS PARA APLICAR HOJE (SUS)
+--------------------------------------------
+- Influenza — 0 de 1 dose(s) · próxima: dose anual: Nenhuma dose registrada. Dose anual indicada. Via: IM. [ADIAR]
+
+CONTRAINDICAÇÕES E PRECAUÇÕES
+--------------------------------------------
+- Pneumocócica 10-valente [ADIAR]: Doença aguda febril moderada ou grave informada: adiar a vacinação até a melhora do quadro.
+- COVID-19 [ADIAR]: Doença aguda febril moderada ou grave informada: adiar a vacinação até a melhora do quadro.
+- Febre Amarela [ADIAR]: Doença aguda febril moderada ou grave informada: adiar a vacinação até a melhora do quadro.
+- Meningocócica ACWY [ADIAR]: Doença aguda febril moderada ou grave informada: adiar a vacinação até a melhora do quadro.
+- SCR [ADIAR]: Doença aguda febril moderada ou grave informada: adiar a vacinação até a melhora do quadro.
+- DTP [ADIAR]: Doença aguda febril moderada ou grave informada: adiar a vacinação até a melhora do quadro.
+- Hepatite A [ADIAR]: Doença aguda febril moderada ou grave informada: adiar a vacinação até a melhora do quadro.
+- Varicela [ADIAR]: Doença aguda febril moderada ou grave informada: adiar a vacinação até a melhora do quadro.
+- VIP [ADIAR]: Doença aguda febril moderada ou grave informada: adiar a vacinação até a melhora do quadro.
+- Influenza [ADIAR]: Doença aguda febril moderada ou grave informada: adiar a vacinação até a melhora do quadro.
+- Meningocócica ACWY [ADIAR]: Doença aguda febril moderada ou grave informada: adiar a vacinação até a melhora do quadro.
+- Meningocócica B [ADIAR]: Doença aguda febril moderada ou grave informada: adiar a vacinação até a melhora do quadro.
+- Pneumocócica 13 [ADIAR]: Doença aguda febril moderada ou grave informada: adiar a vacinação até a melhora do quadro.
+
+ESQUEMA DE RECUPERAÇÃO / PRÓXIMOS ATENDIMENTOS
+--------------------------------------------
+Atendimento 1 — a partir de 02/11/2026
+   • COVID-19 — 1ª dose (IM) [atrasada] [avaliar antes]
+   • Hepatite A — 1ª dose (IM) [atrasada] [avaliar antes]
+   • Meningocócica ACWY — 1ª dose (IM) [atrasada] [avaliar antes]
+   • Pneumocócica 10-valente — 1ª dose (IM) [atrasada] [avaliar antes]
+   • Varicela — 1ª dose (SC) [atrasada] [avaliar antes]
+   • Febre Amarela — 1ª dose (SC) [atrasada] [avaliar antes]
+   obs.: Plano iniciado após a melhora da febre/doença aguda (reavaliar o paciente).
+Atendimento 2 — a partir de 09/11/2026
+   • DTP — 1ª dose (IM) [atrasada] [avaliar antes]
+   • VIP — 4ª dose (IM) [atrasada] [avaliar antes]
+   • Influenza — dose anual (IM) [avaliar antes]
+Atendimento 3 — a partir de 02/12/2026
+   • COVID-19 — 2ª dose (IM) [avaliar antes]
+   • SCR — 1ª dose (SC) [atrasada] [avaliar antes]
+Atendimento 4 — a partir de 01/01/2027
+   • COVID-19 — 3ª dose (IM) [avaliar antes]
+   • SCR — 2ª dose (SC) [avaliar antes]
+Atendimento 5 — a partir de 26/10/2027
+   • DTP — 2ª dose (IM) [avaliar antes]
+   • Varicela — 2ª dose (SC) [avaliar antes]
+   • Febre Amarela — 2ª dose (SC) [avaliar antes]
+
+ESQUEMAS EM DIA
+--------------------------------------------
+- BCG: Esquema completo (1 de 1 dose(s)).
+- Hepatite B: Esquema completo (4 doses registradas). Inclui doses de vacinas combinadas (ex.: pentavalente).
+- Pentavalente: Esquema completo (3 de 3 dose(s)).
+
+FORA DA FAIXA ETÁRIA (não recuperar)
+--------------------------------------------
+- Meningocócica C: Esquema não iniciado. A 1ª dose só pode ser aplicada até 11 meses (prazo encerrado em 25/10/2024). Indicação: 1ª dose aos 3 meses.
+- Rotavírus: Esquema não iniciado. A 1ª dose só pode ser aplicada até 11 meses (prazo encerrado em 25/10/2024). Indicação: 1ª dose aos 2 meses (a partir de 1 mês e 15 dias), até 11 meses e 29 dias.
+
+REDE PRIVADA (complementares, não entram na situação do SUS)
+--------------------------------------------
+- Meningocócica ACWY [ADIAR]: Disponível na rede privada conforme indicação e produto utilizado.
+- Meningocócica B [ADIAR]: Disponível na rede privada conforme indicação e produto utilizado.
+- Pneumocócica 13 [ADIAR]: Disponível na rede privada conforme indicação e produto utilizado.
+
+HISTÓRICO REGISTRADO
+--------------------------------------------
+- BCG: 1 dose(s) — última em 26/10/2023
+- Hepatite B: 1 dose(s) — última em 26/10/2023
+- Pentavalente: 3 dose(s) — última em 26/04/2024
+- VIP: 3 dose(s) — última em 26/04/2024
+
+A análise é um apoio à decisão e não substitui a avaliação do profissional de saúde. Condições especiais podem exigir avaliação no CRIE.
